@@ -1,0 +1,33 @@
+body
+{
+    background-color: #003865;
+
+}
+.titulo
+{
+ color: white;
+ font-size: 32px;
+}
+
+.btn-sec
+{
+    background-color: #D4F6CC;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border-color: transparent;
+    width: 100px;
+    color: black;
+}
+
+#pan
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#tam
+{
+    font-size: 90px;
+}
